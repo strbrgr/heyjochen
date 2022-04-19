@@ -20,6 +20,6 @@
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - 🍕 I make great Pizza...
 - 📫 Reach me: [Twitter](https://twitter.com/heyjochen)
-- ➕ Connect on: [Linkedin](www.linkedin.com/in/jochen-stierberger)
+- ➕ Connect on: [Linkedin](https://linkedin.com/in/jochen-stierberger)
 - 📸 In my free time, I shoot a variety of medium and large format film cameras and spend time at my studio at the  [Chicago Art Department](https://chicagoartdepartment.org).
 - ⚡️ Fun fact: I don't like the cold.
