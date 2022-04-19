@@ -1,4 +1,4 @@
-### Hi there 👋🏽
+### Hi there, it's Jochen 👋🏽
 
 #### I'm a Software Engineer working in Chicago, IL, USA.
 
