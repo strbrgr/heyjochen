@@ -22,7 +22,7 @@
 - 📫 Reach me: [Twitter](https://twitter.com/heyjochen)
 - ➕ Connect on: [Linkedin](https://linkedin.com/in/jochen-stierberger)
 - 📸 In my free time, I shoot a variety of medium and large format film cameras and spend time at my studio at the  [Chicago Art Department](https://chicagoartdepartment.org).
-- ⚡️ Fun fact: I don't like the cold
+- ⚡️ Fun fact: I don't like the cold, but live in Chicago.
 
 
 <h1 align="center">Projects</h1>
@@ -38,13 +38,13 @@
         <br />
         <p align="center">
   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat-square&logo=github&logo-color=white"/>
   </a>         
   <a href="http://paleontologista.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3 and php</strong> - Website for one of my clients Dr. Jingmai O'Connor</p>
+        <p><strong>Javascript, HTML5, CSS3, php</strong> - Website for one of my clients Dr. Jingmai O'Connor</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Omomi Sushi"</h3>
@@ -56,10 +56,10 @@
         <p align="center">
           
   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat-square&logo=github&logo-color=white"/>
   </a>
   <a href="https://omomi.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Website design and build for Omomi Sushi, a traditional sushi restaurant with a modern touch.</p>
@@ -76,13 +76,13 @@
       <br />
         <p align="center">
   <a href="https://github.com/heyjochen/Website_Jochen-Stierberger" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat-square&logo=github&logo-color=white"/>
   </a>
   <a href="http://stierberger.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">barleys</h3>
@@ -94,10 +94,10 @@
         <p align="center">
           
   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat-square&logo=github&logo-color=white"/>
   </a>
   <a href="https://barleys.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Website design and build for barleys BBQ. They specialize in real, purist smoked meats prepared using hickory and oak hardwoods.</p>
