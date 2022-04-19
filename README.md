@@ -4,8 +4,10 @@
 
 ##### NOW
 
-- ✨ Deployed most recent [Paleontologista](https://paleontologista.com) website;
-- 🍕 What about this?
+- ✨ Deployed most recent [Paleontologista](https://paleontologista.com) website
+- ✨ Working on Tetaneuron's website
+- 👷🏼‍♂️ Building a News App
+
 
 ##### BIO
 
@@ -16,6 +18,7 @@
 - 💅 Designed: [Paleontologista](https://paleontologista.com), [Tetaneuron](https://tetaneuron.com), [Omomi](https://omomi.netlify.app/), [Barleys](https://barleys.netlify.app/), etc…
 - 🌱 Learning all about **Open Source**, **Automation**, and **3D Model Generation**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
+- 🍕 I make great Pizza...
 - 📫 Reach me: [Twitter](https://twitter.com/heyjochen)
 - ➕ Connect on: [Linkedin](www.linkedin.com/in/jochen-stierberger)
 - 📸 In my free time, I shoot a variety of medium and large format film cameras and spend time at my studio at the  [Chicago Art Department](https://chicagoartdepartment.org).
