@@ -47,7 +47,7 @@
         <p><strong>Javascript, HTML5, CSS3, php</strong> - Website for one of my clients Dr. Jingmai O'Connor</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Omomi Sushi"</h3>
+      <h3 align="center">Omomi Sushi</h3>
         <br />
       <a target="_blank" href="https://omomi.netlify.app/">
             <img src="assets/Website_omomi-5fps.gif" width="100%"  alt="Omomi Sushi"/>
