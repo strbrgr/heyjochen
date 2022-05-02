@@ -7,6 +7,7 @@
 - ✨ Deployed most recent [Paleontologista](https://paleontologista.com) website
 - ✨ Working on Tetaneuron's website
 - 👷🏼‍♂️ Building a News App
+- 👷🏼‍♂️ Creating a Postcard App using The Chicago Arti Institute API
 
 
 ##### BIO
