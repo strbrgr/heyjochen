@@ -54,7 +54,7 @@
   <a href="https://github.com/heyjochen/Posters-Chicago" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat-square&logo=github&logo-color=white"/>
   </a>
-  <a href="http://stierberger.com" target="_blank">
+  <a href="https://chicagoposters.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
   </a>
       </p>
