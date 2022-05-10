@@ -4,11 +4,10 @@
 
 ##### NOW
 
-- ✨ Deployed most recent [Paleontologista](https://paleontologista.com) website
 - ✨ Working on Tetaneuron's website
-- 👷🏼‍♂️ Building a News App
-- 👷🏼‍♂️ Creating a Postcard App using The Chicago Arti Institute API
-
+- 👷🏼‍♂️ Working on a Poster App using The Chicago Art Institute API
+- ✅ Built v1 of a News App
+- ✅ Deployed most recent [Paleontologista](https://paleontologista.com) website
 
 ##### BIO
 
@@ -45,19 +44,21 @@
         <p><strong>Javascript, HTML5, CSS3, php</strong> - Website for one of my clients Dr. Jingmai O'Connor</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Omomi Sushi</h3>
-        <br />
-      <a target="_blank" href="https://omomi.netlify.app/">
-            <img src="assets/Website_omomi-5fps.gif" width="100%"  alt="Omomi Sushi"/>
+      <h3 align="center">Posters.</h3>
+      <br />
+        <a target="_blank" href="https://chicagoposters.netlify.app/">
+          <img src="https://github.com/heyjochen/Posters-Chicago/blob/main/assets/README.gif?raw=true" width="100%" alt="Posters."/>
         </a>
-        <br />
+      <br />
         <p align="center">
-         
-  <a href="https://omomi.netlify.app" target="_blank">
+  <a href="https://github.com/heyjochen/Posters-Chicago" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat-square&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://stierberger.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Website design and build for Omomi Sushi, a traditional sushi restaurant with a modern touch.</p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
   
