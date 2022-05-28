@@ -30,24 +30,10 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Paleontologista / Dr. Jingmai O'Connor</h3>
-        <br />
-        <a target="_blank" href="http://paleontologista.com">
-            <img src="assets/Website_Jingmai-OConnor-5fps.gif" width="100%" alt="Paleontologista"/>
-        </a>
-        <br />
-        <p align="center">        
-  <a href="http://paleontologista.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, HTML5, CSS3, php</strong> - Website for one of my clients Dr. Jingmai O'Connor</p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Posters.</h3>
       <br />
         <a target="_blank" href="https://chicagoposters.netlify.app/">
-          <img src="https://github.com/heyjochen/Posters-Chicago/blob/main/assets/README.gif?raw=true" width="100%" alt="Posters."/>
+          <img src="https://github.com/heyjochen/Posters-Chicago/blob/main/assets/README.gif?raw=true" width="100%" alt="An animated image showing the Posters App functionality"/>
         </a>
       <br />
         <p align="center">
@@ -58,7 +44,24 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - A project involving the Chicago Art Institute's API to generate Posters images that can be printed as a Poster</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Newsscraper App</h3>
+      <br />
+        <a target="_blank" href="https://getyournews.netlify.app/">
+          <img src="https://github.com/heyjochen/News-Scraper-App/blob/main/assets/readme.gif?raw=true" width="100%" alt="An animated image showing the Newsscraper App functionality"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/heyjochen/News-Scraper-App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat-square&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://getyournews.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - A web app that will show latest headlines on user requests.</p>
     </td>
   </tr>
   
