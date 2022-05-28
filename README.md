@@ -32,7 +32,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Posters.</h3>
       <br />
-        <a target="_blank" href="https://chicagoposters.netlify.app/">
+        <a target="https://chicagoposters.netlify.app/" href="https://chicagoposters.netlify.app/">
           <img src="https://github.com/heyjochen/Posters-Chicago/blob/main/assets/README.gif?raw=true" width="100%" alt="An animated image showing the Posters App functionality"/>
         </a>
       <br />
