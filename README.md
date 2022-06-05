@@ -87,8 +87,8 @@
     <td width="50%" valign="top">
       <h3 align="center">Postcard Generator</h3>
         <br />
-        <a target="_blank" href="http://paleontologista.com">
-            <img src="assets/Website_Jingmai-OConnor-5fps.gif" width="100%" alt="Paleontologista"/>
+        <a target="_blank" href="https://chicagopostcard.netlify.app/">
+            <img src="https://github.com/heyjochen/Art-Postcards/raw/main/assets/README.gif?raw=true" width="100%" alt="Postcard Generator"/>
         </a>
         <br />
         <p align="center">
