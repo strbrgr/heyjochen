@@ -5,7 +5,7 @@
 ##### NOW
 
 - 👷 Started to build an app for large format film photographers.
-- ✨ Deployed on Tetaneuron's website
+- ✨ Deployed Tetaneuron's website
 - ✅ Finished a Poster App using The Chicago Art Institute API
 - ✅ Built v1 of a News App
 - ✅ Deployed most recent [Paleontologista](https://paleontologista.com) website
