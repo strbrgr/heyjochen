@@ -85,18 +85,21 @@
         <p><strong>Javascript, HTML5, CSS3</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Paleontologista / Dr. Jingmai O'Connor</h3>
+      <h3 align="center">Postcard Generator</h3>
         <br />
         <a target="_blank" href="http://paleontologista.com">
             <img src="assets/Website_Jingmai-OConnor-5fps.gif" width="100%" alt="Paleontologista"/>
         </a>
         <br />
-        <p align="center">        
-  <a href="http://paleontologista.com" target="_blank">
+        <p align="center">
+  <a href="https://github.com/heyjochen/Art-Postcards" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat-square&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://chicagopostcard.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3, php</strong> - Website for one of my clients Dr. Jingmai O'Connor</p>
+        <p><strong>Javascript, HTML5, CSS3, php</strong> - Generate and print your Art-Postcard</p>
     </td>
   </tr>
 </table>
