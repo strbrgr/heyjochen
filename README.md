@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- 🛂 I immigrated to the US in 2020, and have a Green Card, yay! 
+- 🛂 I immigrated to the US in 2020, and have a Green Card, yay!
 - 🏢 I'm currently working at **The Field Museum**
 - ⚙️ I use daily: `.js`, `.html5`, `.css3`, `.figma`, `.psd`
 - 🌍 I'm mostly active within the **100Devs Community**
@@ -22,9 +22,8 @@
 - 🍕 I make great Pizza...
 - 📫 Reach me: [Twitter](https://twitter.com/heyjochen)
 - ➕ Connect on: [Linkedin](https://linkedin.com/in/jochen-stierberger)
-- 📸 In my free time, I shoot a variety of medium and large format film cameras and spend time at my studio at the  [Chicago Art Department](https://chicagoartdepartment.org).
+- 📸 In my free time, I shoot a variety of medium and large format film cameras and spend time at my studio at the [Chicago Art Department](https://chicagoartdepartment.org).
 - ⚡️ Fun fact: I don't like the cold, but live in Chicago.
-
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -48,21 +47,21 @@
         <p><strong>Javascript, HTML5, CSS3</strong> - A project involving the Chicago Art Institute's API to generate Posters images that can be printed as a Poster</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Newsscraper App</h3>
+      <h3 align="center">Loomer</h3>
       <br />
-        <a target="_blank" href="https://getyournews.netlify.app/">
-          <img src="https://github.com/heyjochen/News-Scraper-App/blob/main/assets/readme.gif?raw=true" width="100%" alt="An animated image showing the Newsscraper App functionality"/>
+        <a target="_blank" href="https://loomer2023.vercel.app/">
+          <img src="https://github.com/heyjochen/heyjochen/blob/main/assets/Website_Loomer-10fps.gif" width="100%" alt="An animated image showing the Loomer App functionality"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/heyjochen/News-Scraper-App" target="_blank">
+  <a href="https://github.com/heyjochen/loomer2023" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat-square&logo=github&logo-color=white"/>
   </a>
-  <a href="https://getyournews.netlify.app/" target="_blank">
+  <a href="https://loomer2023.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat-square&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - A web app that will show latest headlines on user requests.</p>
+        <p><strong>Next.js, React, PostgreSQL, Javascript, HTML5, CSS3</strong> - An app for film photographers to track metadata.</p>
     </td>
   </tr>
   
