@@ -5,7 +5,8 @@
 ##### BIO
 
 - 🛂 I immigrated to the US in 2020, and have a Green Card, yay!
-- 🌱 Currently learning all about **Developer Productivity** and **Automation**.
+- 🌱 Interested in **Developer Productivity** and **Automation**. 
+- 🤖 Exploring neovim and improving my dev environment via tmux, yabai and skhd. Feel free to check out my [dotfiles](https://github.com/heyjochen/dotfiles)
 - 🍕 I make great Pizza and enjoy tinkering with recipes and new ideas.
 - 📫 Reach me: [Twitter](https://twitter.com/heyjochen)
 - ➕ Connect on: [Linkedin](https://linkedin.com/in/jochen-stierberger)
