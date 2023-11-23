@@ -1,6 +1,6 @@
 ### Hi there, it's Jochen 👋🏽
 
-#### I'm a Software Developer working for [nvisia](https://www.nvisia.com/) out of Chicago, IL, USA. 
+#### I'm a Software Engineer working for [nvisia](https://www.nvisia.com/) out of Chicago, IL, USA. 
 
 ##### BIO
 
